@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actu >
+    <breve theme="actu" langue="fr" date="7 décembre 2004">
+        <titre>Les députés renoncent au CV anonyme</titre>
+        <texte>
+            Les députés ont achevé lundi, après plus de deux semaines de débat marathon, l'examen du projet de loi de cohésion sociale. Ils ont abandonné le CV anonyme, mesure à laquelle le gouvernement et l'UMP étaient hostiles en l'état.
+        </texte>
+        <url href="http://news.tf1.fr/news/economie/0,,3189581,00.html">TF1</url>
+    </breve>
+    <breve theme="sport" langue="fr" date="7 décembre 2004">
+        <titre>Décès de Raymond Goethals</titre>
+        <texte>
+            L'entraîneur belge Raymond Goethals, décédé lundi à Bruxelles, suscitait la sympathie grâce à une truculence et une gouaille incomparables qui en faisaient un bon client des médias.
+        </texte>
+        <photo src="https://medias.pourlascience.fr/api/v1/images/view/5d1b663a8fe56f77c8671165/wide_1300/image.jpg" />
+    </breve>
+    <breve theme="actu" langue="fr" date="7 février 2006">
+        <titre>Mobilisation contre le CPE</titre>
+        <texte>
+            Manifestations en ce moment dans toutes les grandes villes de France.
+        </texte>
+    </breve>
+</actu> 

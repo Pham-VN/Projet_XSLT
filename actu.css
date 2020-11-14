@@ -1,0 +1,27 @@
+.text {
+    border: 1px solid black ;
+    background-color: blanchedalmond;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+.theme {
+    border: 2px dotted black;
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+.count_breve {
+    border: 2px dotted black;
+    background-color:wheat;
+    padding: 20px;
+}
+.langue {
+    border: 1px solid black;
+    background-color:yellow;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.activite {
+    border: 1px solid black;
+    background-color: burlywood;
+    padding: 10px;
+}
